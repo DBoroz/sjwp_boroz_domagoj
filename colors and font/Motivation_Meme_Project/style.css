@@ -1,0 +1,15 @@
+.drugi {
+  color: white;
+  h1 {
+    font-family: "Libre Baskerville", serif;
+  }
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+}
+.prvi {
+  width: 50%;
+  border: 5px solid white;
+  margin-left: 25%;
+  margin-top: 50px;
+}
