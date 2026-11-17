@@ -1,0 +1,19 @@
+.prvi {
+  background-color: black;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.drugi {
+  background-color: red;
+}
+.treci {
+  background-color: yellow;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+div {
+  margin: 0px;
+  width: 800px;
+  height: 150px;
+}
